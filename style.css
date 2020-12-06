@@ -23,8 +23,8 @@ paragraph {
   margin: 20px;
   margin-bottom: 20px;
 }
-.body {
-  padding: 5px;
+body {
+  padding: 20px;
   margin: 5px;
   font-family: link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet";
@@ -38,10 +38,10 @@ paragraph {
   background: #333;
 }
 
-.h1 {
-  padding-top: 80px;
+h1 {
+  padding-top: 10px;
   padding-right: 0px;
-  padding-bottom: 26px;
+  padding-bottom: 24px;
   padding-left: 0px;
   margin: 0;
   font-size: 22px;
@@ -49,26 +49,28 @@ paragraph {
   text-align: left;
 }
 
-.h2 {
-  padding: 10px 0;
+h2 {
+  padding: 10px;
   margin: 0;
   margin-bottom: 10px 0;
-  font-size: 22px;
+  font-size: 20px;
   color: rgb(10, 10, 10);
   text-align: left;
 }
 
-.a {
+a {
   color: #d21034;
 }
-.image {
-  padding: 20px 0;
-  margin: 20px;
-  margin-bottom: 20px;
+
+img {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 /* Selecting elements by class */
-.container {
+container {
   float: left;
   position: absolute;
   left: 5%;
@@ -79,9 +81,10 @@ paragraph {
   position: absolute;
   right: 5%;
 }
-.div {
-  padding-top: 5px;
-  padding-right: 5px;
-  padding-bottom: 5px;
+
+div {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
   padding-left: 5px;
 }

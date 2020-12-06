@@ -57,8 +57,17 @@ h2 {
   text-align: left;
 }
 
+h3 {
+  padding: 10px;
+  margin: 0;
+  margin-bottom: 10px 0;
+  font-size: 18px;
+  color: rgb(10, 10, 10);
+  text-align: center;
+}
+
 a {
-  color: #d21034;
+  color: #101dd2;
 }
 
 img {

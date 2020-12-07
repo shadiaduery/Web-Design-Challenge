@@ -67,7 +67,7 @@ h3 {
 }
 
 a {
-  color: #101dd2;
+  color: #344044;
 }
 
 img {
@@ -95,4 +95,16 @@ div {
   padding-right: 10px;
   padding-bottom: 10px;
   padding-left: 5px;
+}
+a.navbuttons{
+  text-align: center;
+  height: 30px;
+  padding-left: 14px;
+  padding-right: 14px;
+  line-height: 30px;
+  margin:0px;
+  display: inline-block;
+  font-size:18px;
+  color:white;
+  text-decoration: none;
 }

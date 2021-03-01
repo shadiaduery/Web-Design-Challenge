@@ -1,12 +1,12 @@
 World Cities Weather Analysis Web Visualizations
-Presented by Shadia Duery on 12/09/2020
+https://shadiaduery.github.io/Web-Design-Challenge/
 
-This assignement had the following components:
+This project had the following components:
 
 1) Data analysis to create visualizations
 The data was composed of over 500 IPA calls on weather information on over 500 cities.
-The data was analysed using Pandas in a jupyter notebook
-The data was visualized using matplotlib
+The data was analysed using Python 3.X, Pandas libraries in a jupyter notebook and SciPy libraries
+The data was visualized using Matplotlib and Seaborn libraries
 The visualizations were saved as high resolutions images (500 pixels)
 
 2) Creation of the Website
@@ -20,3 +20,5 @@ For the creations of the website the following tools were used:
 - A table cotaining the data used in the analysis
 - And several tab showing comparisons
     
+Contact info:
+Shadia Duery sduery@gmail.com

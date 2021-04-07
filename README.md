@@ -1,5 +1,5 @@
 World Cities Weather Analysis Web Visualizations
-https://shadiaduery.github.io/Web-Design-Presentation-Analysis/
+https://shadiaduery.github.io/Web-Design-Challenge
 
 This project had the following components:
 
